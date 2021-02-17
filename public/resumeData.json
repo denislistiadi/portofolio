@@ -1,0 +1,148 @@
+{
+  "main": {
+    "name": "Denis Listiadi",
+    "occupation": "Freelancer",
+    "description": "I eat, sleep and love to code",
+    "image": "profilepic.jpg",
+    "bio": "Hello there! I'm Denis! I've been coding for over 2 years now. As a Full Stack Developer Freelancer, I've worked with startups and companies to help build & scale their companies. Along the way, I realized that my passion was in helping others excel and pursue their dreams of growing their businesses. With this passion, I have now helped many business people around the world. Through upwork and other sites, I have created dozens of website views that they want.",
+    "contactmessage": "Get in touch with me",
+    "email": "denislistiadi24@gmail.com",
+    "phone": "+62 85225186216",
+    "address": {
+      "street": "Kebagusan, Ampelgading",
+      "city": "Pemalang",
+      "state": "Jawa Tengah",
+      "zip": "52364"
+    },
+    "website": "https://www.facebook.com/denis.id",
+    "resumedownload": "https://wa.me/6285225186216",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/denis.id",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://www.twitter.com.kenshin_del",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/denis-listiadi",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/denislistiadi",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "SMK Nusantara 1 Comal",
+        "degree": "High school",
+        "graduated": "July 2015",
+        "description": "Graduated with Second Class Honours"
+      }
+    ],
+    "course": [
+      {
+        "place": "Dicoding",
+        "about": "Fundamental Frontend Developer",
+        "year": "2019"
+      },
+      {
+        "place": "Udemy",
+        "about": "MERN Stack Developer & Other Course's",
+        "year": "2018 - Present"
+      },
+      {
+        "place": "Progate",
+        "about": "Web Development Path NodeJs",
+        "year": "2020"
+      }
+    ],
+    "work": [
+      {
+        "company": "FREELANCE",
+        "title": "Upwork and other freelance",
+        "years": "October 2019 - Present",
+        "description": "Freelancing by creating business profile websites, portfolios, landing page, e-commerce and others."
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML & CSS",
+        "level": "99%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "Node JS",
+        "level": "75%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "82%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Tinder Clone (React JS)",
+        "category": "",
+        "image": "tinder.jpg",
+        "url": "https://tinder-clone-f0167.web.app"
+      },
+      {
+        "title": "LinkedIn Clone (React JS)",
+        "category": "",
+        "image": "linkedin.jpg",
+        "url": "https://linkedin-clone-2fb2c.web.app"
+      },
+      {
+        "title": "Netflix Clone (React JS)",
+        "category": "",
+        "image": "netflix.jpg",
+        "url":"https://netflix-plagiat.herokuapp.com"
+      },
+      {
+        "title": "GDrive Clone (React JS)",
+        "category": "",
+        "image": "google-drive.png",
+        "url":"https://gdrive-clone-build.web.app"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Thanks to denis, my property business has now increasingly become a customer since the website was created for my business.",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "The pandemic got me laid off and had to return home. I was confused, but since being taught an online business and created an e-commerce web, I don't bother anymore when I have to at home.",
+        "user": "Adam Curtis"
+      },
+      {
+        "text": "That Denis must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Kareem Abdul Jabbar"
+      }
+    ]
+  }
+}
